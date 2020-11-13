@@ -4,7 +4,6 @@ NOTE: We are in a bootstrapping phase. We need to get you set up on Github and G
 
 NOTE: These instructions are always a work in progress. 
 
-
 Objectives of this lab: 
 
 - Set up MS Teams
